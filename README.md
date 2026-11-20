@@ -147,8 +147,7 @@ Marketing-Campaign-Performance-Analysis/
 │
 ├── Marketing_Campaign_Data_Dashboard_project.xlsx
 │
-├── Dashboard/
-│   └── Dashboard Screenshot.png
+├── Dashboard Screenshot.png
 │
 └── README.md
 ```
